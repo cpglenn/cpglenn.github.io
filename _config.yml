@@ -1,8 +1,8 @@
+---
 title: cpglenn
 name: Chris Glenn
 email: cpglenn@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Data Science. Comedy. Panera Bread sandwiches.
+description: "Big tings."
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
