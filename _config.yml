@@ -1,8 +1,9 @@
 ---
 title: cpglenn
-name: Chris Glenn
-email: cpglenn@gmail.com
-description: "Big tings."
+author:
+  name: cpglenn
+  email: cpglenn@gmail.com
+description: Big tings.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -13,7 +14,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: cpglenn
-    github:  cpglenn
+    github: cpglenn
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
