@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[/projects/datacamp/](./projects.md)
+[/projects/](./projects.md)

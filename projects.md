@@ -10,3 +10,6 @@ layout: default
 --[/exploring-the-bitcoin-cryptocurrency-market](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/exploring-the-bitcoin-cryptocurrency-market/notebook.ipynb)<br>
 --[/the-android-app-market-on-google-play](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/the-android-app-market-on-google-play/notebook.ipynb)<br>
 --[/tv-halftime-shows-and-the-big-game](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/tv-halftime-shows-and-the-big-game/notebook.ipynb)<br>
+
+/kaggle<br>
+--[m5-forecasting-accuracy](https://github.com/cpglenn/m5-forecasting-accuracy)<br>
