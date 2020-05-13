@@ -13,7 +13,7 @@ layout: default
 --[/tv-halftime-shows-and-the-big-game](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/tv-halftime-shows-and-the-big-game/notebook.ipynb)<br>
 
 /datacamp/r<br>
---[/functions-for-food-price-forecasts](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/functions-for-food-price-forecasts/notebook.ipynb)
+--[/functions-for-food-price-forecasts](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/functions-for-food-price-forecasts/notebook.ipynb)<br>
 
 /kaggle<br>
 --[/m5-forecasting-accuracy](https://github.com/cpglenn/m5-forecasting-accuracy)<br>
