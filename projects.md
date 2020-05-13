@@ -3,7 +3,7 @@ layout: default
 ---
 
 /datacamp/python<br>
---[/dr-semmelweis-and-the-discovery-of-handwashing](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/dr-semmelweis-and-the-discovery-of-handwashing/notebook.ipynb)
+--[/dr-semmelweis-and-the-discovery-of-handwashing](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/dr-semmelweis-and-the-discovery-of-handwashing/notebook.ipynb)<br>
 --[/a-visual-history-of-nobel-prize-winners](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/a-visual-history-of-nobel-prize-winners/notebook.ipynb)<br>
 --[/functions-for-food-price-forecasts](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/functions-for-food-price-forecasts/notebook.ipynb)<br>
 --[/the-github-history-of-the-scala-language](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/the-github-history-of-the-scala-language/notebook.ipynb)<br>
