@@ -3,7 +3,7 @@ layout: default
 ---
 
 /datacamp/python<br>
---[/predicting-credit-card-approvals](https://github.com/cpglenn/cpglenn.github.io/blog/master/projects/datacamp/predicting-credit-card-approvals/notebook.ipynb)<br>
+--[/predicting-credit-card-approvals](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/predicting-credit-card-approvals/notebook.ipynb)<br>
 --[/dr-semmelweis-and-the-discovery-of-handwashing](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/dr-semmelweis-and-the-discovery-of-handwashing/notebook.ipynb)<br>
 --[/a-visual-history-of-nobel-prize-winners](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/a-visual-history-of-nobel-prize-winners/notebook.ipynb)<br>
 --[/the-github-history-of-the-scala-language](https://github.com/cpglenn/cpglenn.github.io/blob/master/projects/datacamp/the-github-history-of-the-scala-language/notebook.ipynb)<br>
